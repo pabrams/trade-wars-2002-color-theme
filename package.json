@@ -28,7 +28,7 @@
         "url": "https://github.com/pabrams/Tradewars2002-theme-VS",
         "type": "git"
     },
-    "publisher": "jpabrams",
+    "publisher": "paulabrams1",
     "devDependencies": {
         "vsce": "^1.100.1"
     },
