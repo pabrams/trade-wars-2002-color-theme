@@ -17,5 +17,22 @@
                 "path": "./themes/Trade Wars 2002 Color Theme-color-theme.json"
             }
         ]
+    },
+    "icon": "icons/tradewars2002.png",
+    "author": {
+        "name": "Paul Abrams",
+        "email": "john.paul.abrams@gmail.com",
+        "url": "https://pabrams.github.io/"
+    },
+    "repository": {
+        "url": "https://github.com/pabrams/Tradewars2002-theme-VS",
+        "type": "git"
+    },
+    "publisher": "jpabrams",
+    "devDependencies": {
+        "vsce": "^1.100.1"
+    },
+    "scripts": {
+        "build": "vsce package"
     }
 }
