@@ -30,9 +30,12 @@
     },
     "publisher": "paulabrams1",
     "devDependencies": {
-        "vsce": "^1.100.1"
+        "vsce": "^2.6.7"
     },
     "scripts": {
         "build": "vsce package"
+    },
+    "dependencies": {
+        "node": "^17.4"
     }
 }
