@@ -28,3 +28,10 @@ To learn more about scopes and how they're used, check out the [color theme](htt
 
 * To start using your extension with Visual Studio Code copy it into the `<user home>/.vscode/extensions` folder and restart Code.
 * To share your extension with the world, read on https://code.visualstudio.com/docs about publishing an extension.
+
+### From CLI
+
+Install dependencies, then run the build script, then install the extension itself.
+`npm install && npm run build && code --install-extension trade-wars-2002-color-theme-0.0.1.vsix`
+
+tar -xf ~/Downloads/node-v16.14.0-linux-x64.tar.xz
