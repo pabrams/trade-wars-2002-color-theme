@@ -5,7 +5,7 @@
 	"type": "hi-contrast dark",
 	"colors": {
 		"editor.background": "#000000",
-		"editor.foreground": "#009999",
+		"editor.foreground": "#009900",
 		"activityBarBadge.background": "#000000",
 		"sideBarTitle.foreground": "#ffff00",
 		"sideBarSectionHeader.background": "#000000",
