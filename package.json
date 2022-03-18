@@ -4,7 +4,7 @@
     "description": "Trade Wars 2002 Color Theme",
     "version": "0.0.2",
     "engines": {
-        "vscode": "^1.63.0"
+        "vscode": "^1.60.0"
     },
     "categories": [
         "Themes"
@@ -36,6 +36,6 @@
         "build": "vsce package"
     },
     "dependencies": {
-        "node": "^17.4"
+        "node": "^12"
     }
 }
