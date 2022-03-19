@@ -157,7 +157,7 @@
 			],
 			"settings": {
 				// *Unique color*
-				"foreground": "#ff00ff"
+				"foreground": "#ff0000"
 			}
 		},
 		{
@@ -206,7 +206,7 @@
 		{
 			"name": "String",
 			"scope": ["string"],
-			"settings": {"foreground": "#009999"}
+			"settings": {"foreground": "#00ffff"}
 		},
 		{
 			"name": "this",
@@ -458,7 +458,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#777700"
+				"foreground": "#ff00ff"
 			}
 		},
 		{
