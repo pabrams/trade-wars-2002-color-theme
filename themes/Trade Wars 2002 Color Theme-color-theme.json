@@ -211,7 +211,7 @@
 		{
 			"name": "this",
 			"scope": ["variable.language.this.js"],
-			"settings": {"foreground": "#990000"}
+			"settings": {"foreground": "#ff0000"}
 		},
 		{
 			"name": "Sumbrackets",
@@ -306,7 +306,7 @@
 				"keyword.control"
 			],
 			"settings": {
-				"foreground": "#990000"
+				"foreground": "#ff0000"
 			}
 		},
 		{
@@ -390,7 +390,7 @@
 				"string.regexp"
 			],
 			"settings": {
-				"foreground": "#990000"
+				"foreground": "#0000ff"
 			}
 		},
 		{
@@ -476,7 +476,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#990000"
+				"foreground": "#ff0000"
 			}
 		},
 		{
@@ -597,7 +597,7 @@
 			],
 			"settings": {
 				"fontStyle": "underline",
-				"foreground": "#990000"
+				"foreground": "#ffff00"
 			}
 		},
 		{
@@ -633,7 +633,7 @@
 				"string.other.link.description.title.markdown"
 			],
 			"settings": {
-				"foreground": "#990000"
+				"foreground": "#ff0000"
 			}
 		},
 		{
@@ -642,7 +642,7 @@
 				"constant.other.reference.link.markdown"
 			],
 			"settings": {
-				"foreground": "#009900"
+				"foreground": "#00ff00"
 			}
 		},
 		{
@@ -651,7 +651,7 @@
 				"markup.raw.block"
 			],
 			"settings": {
-				"foreground": "#000099"
+				"foreground": "#0000ff"
 			}
 		},
 		{
@@ -669,7 +669,7 @@
 				"punctuation.definition.fenced.markdown"
 			],
 			"settings": {
-				"foreground": "#990000"
+				"foreground": "#ff0000"
 			}
 		},
 		{
