@@ -2,7 +2,7 @@
     "name": "trade-wars-2002-color-theme",
     "displayName": "Trade Wars 2002 Color Theme",
     "description": "Trade Wars 2002 Color Theme",
-    "version": "0.0.3",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.60.0"
     },
@@ -14,7 +14,7 @@
             {
                 "label": "Trade Wars 2002 Color Theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Trade Wars 2002 Color Theme-color-theme.json"
+                "path": "./themes/Trade-Wars-2002-color-theme.json"
             }
         ]
     },
@@ -30,13 +30,13 @@
     },
     "publisher": "paulabrams1",
     "devDependencies": {
-        "vsce": "^2.14.0"
+        "vsce": "^2.14.0",
+        "node": "^16"
     },
     "scripts": {
         "build": "vsce package"
     },
     "dependencies": {
-        "node": "^16"
     },
     "vsce": {
         "dependencies": true,
