@@ -62,7 +62,7 @@
 		"quickInput.background": "#008",
 		"menu.background": "#000",
 		"button.background": "#008",
-		"button.hoverBackground": "#00f",f00
+		"button.hoverBackground": "#00f",
 		"titleBar.activeForeground": "#fff",
 		"editor.foldBackground": "#008",
 		"scrollbarSlider.activeBackground": "#088",
