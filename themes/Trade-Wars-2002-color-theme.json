@@ -8,7 +8,7 @@
 		"editorLineNumber.activeForeground": "#f0f",
 		"editorLineNumber.dimmedForeground": "#808",
 		"editor.background": "#000",
-		"editor.foreground": "#009900",
+		"editor.foreground": "#090",
 		"editorError.foreground": "#f00",
 		"selection.background": "#008",
 		"menubar.selectionBackground": "#008",
@@ -176,7 +176,7 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#009900"
+				"foreground": "#090"
 			}
 		},
 		{
@@ -313,7 +313,7 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#009900"
+				"foreground": "#090"
 			}
 		},
 		{
@@ -376,7 +376,7 @@
 				"keyword.control.flow"
 			],
 			"settings": {
-				"foreground": "#009900"
+				"foreground": "#090"
 			}
 		},
 		{
@@ -750,7 +750,7 @@
 				"variable.language.fenced.markdown"
 			],
 			"settings": {
-				"foreground": "#009900"
+				"foreground": "#090"
 			}
 		},
 		{
