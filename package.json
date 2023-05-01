@@ -36,7 +36,7 @@
         "build": "vsce package"
     },
     "dependencies": {
-        "node": "^19"
+        "node": "^20"
     },
     "vsce": {
         "dependencies": true,
