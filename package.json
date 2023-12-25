@@ -30,13 +30,11 @@
     },
     "publisher": "paulabrams1",
     "devDependencies": {
-        "@vscode/vsce": "^2.22.0"
+        "@vscode/vsce": "^2.22.0",
+        "node": "^18"
     },
     "scripts": {
         "build": "vsce package"
-    },
-    "dependencies": {
-        "node": "^16"
     },
     "vsce": {
         "dependencies": true,
