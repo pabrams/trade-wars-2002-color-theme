@@ -4,11 +4,11 @@ This is my interpretation of a Trade Wars 2002 theme as a VS Code extension.
 
 ![screenshot_20231224_233149.png](https://github.com/pabrams/trade-wars-2002-color-theme/blob/75f7c2081a787f579225f6eae9655857d098ea30/images/Screenshot_20231224_233149.png)
 
-## What's in the folder
+To install this theme in VS Code:
+Press (Ctrl+P) in VS Code to open the quick console, paste the following command, and press enter.
+`ext install paulabrams1.trade-wars-2002-color-theme`
 
-* This folder contains all of the files necessary for the color theme extension.
-* `package.json` - this is the manifest file that defines the location of the theme file and specifies the base theme of the theme.
-* `themes/tw2002-color-theme.json` - the color theme definition file.
+See below for how to create your own extension using this one as a starting point.
 
 ## Quickstart
 
@@ -34,9 +34,7 @@ To learn more about scopes and how they're used, check out the [color theme](htt
 ### From CLI
 
 Install dependencies, then run the build script, then install the extension itself.
-`npm install && npm run build && code --install-extension trade-wars-2002-color-theme-0.0.6.vsix`
-
-tar -xf ~/Downloads/node-v16.14.0-linux-x64.tar.xz
+`npm install && npm run build && code --install-extension trade-wars-2002-color-theme-1.0.9.vsix`
 
 ### publish
 
