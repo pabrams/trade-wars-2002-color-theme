@@ -2,6 +2,8 @@
 
 This is my interpretation of a Trade Wars 2002 theme as a VS Code extension.
 
+(images/Screenshot_20231224_233149.png)
+
 ## What's in the folder
 
 * This folder contains all of the files necessary for the color theme extension.
@@ -35,3 +37,7 @@ Install dependencies, then run the build script, then install the extension itse
 `npm install && npm run build && code --install-extension trade-wars-2002-color-theme-0.0.1.vsix`
 
 tar -xf ~/Downloads/node-v16.14.0-linux-x64.tar.xz
+
+### publish
+
+npx vsce publish
