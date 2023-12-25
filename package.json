@@ -2,7 +2,7 @@
     "name": "trade-wars-2002-color-theme",
     "displayName": "Trade Wars 2002 Color Theme",
     "description": "Trade Wars 2002 Color Theme",
-    "version": "0.0.7",
+    "version": "1.0.7",
     "engines": {
         "vscode": "^1.60.0"
     },
