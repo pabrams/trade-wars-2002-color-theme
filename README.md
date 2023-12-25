@@ -11,8 +11,11 @@ Press (Ctrl+P) in VS Code to open the quick console, paste the following command
 See below for how to create your own extension using this one as a starting point.
 
 If you're reading this from github, here's the [marketplace page](https://marketplace.visualstudio.com/items?itemName=paulabrams1.trade-wars-2002-color-theme).
-
+https://github.com/pabrams/trade-wars-2002-color-theme/blob/trunk/images/Screenshot_20231224_233149.png?raw=true
 ## Quickstart
+
+images/Screenshot_20231224_233149.png
+https://github.com/pabrams/trade-wars-2002-color-theme/blob/f3b789a1c09d9680b2a443f28807091241fec5bb/images/Screenshot_20231224_233149.png
 
 * Press `F5` to open a new window with the extension loaded.
 
@@ -39,7 +42,7 @@ To learn more about scopes and how they're used, check out the [color theme](htt
 
 Install dependencies, then run the build script, then install the extension itself.
 
-`npm install && npm run build && code --install-extension trade-wars-2002-color-theme-1.0.15.vsix`
+`npm install && npm run build && code --install-extension trade-wars-2002-color-theme-1.0.16.vsix`
 
 ### publish
 

@@ -2,9 +2,9 @@
     "name": "trade-wars-2002-color-theme",
     "displayName": "Trade Wars 2002 Color Theme",
     "description": "A color scheme for VS Code, reminescent of the Trade Wars 2002 door game",
-    "version": "1.0.15",
+    "version": "1.0.16",
     "engines": {
-        "vscode": "^1.60.0"
+        "vscode": "^1.63.0"
     },
     "categories": [
         "Themes"
@@ -37,7 +37,7 @@
         "build": "vsce package"
     },
     "vsce": {
-        "baseImagesUrl": "https://github.com/pabrams/trade-wars-2002-color-theme/blob/trunk/",
+        "baseImagesUrl": "https://github.com/pabrams/trade-wars-2002-color-theme/blob/f3b789a1c09d9680b2a443f28807091241fec5bb",
         "dependencies": true,
         "yarn": false
     }
