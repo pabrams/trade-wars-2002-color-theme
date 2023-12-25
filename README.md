@@ -2,7 +2,7 @@
 
 This is my interpretation of a Trade Wars 2002 theme as a VS Code extension.
 
-(images/Screenshot_20231224_233149.png)
+![screenshot_20231224_233149.png](images/Screenshot_20231224_233149.png)
 
 ## What's in the folder
 
