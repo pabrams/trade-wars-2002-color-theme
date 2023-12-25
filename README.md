@@ -40,4 +40,5 @@ tar -xf ~/Downloads/node-v16.14.0-linux-x64.tar.xz
 
 ### publish
 
+npx vsce login paulabrams1
 npx vsce publish
